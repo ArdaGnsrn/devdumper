@@ -1,3 +1,6 @@
 [submodule "devdumper-php"]
 	path = devdumper-php
 	url = https://github.com/ArdaGnsrn/devdumper-php.git
+[submodule "devdumper-docs"]
+	path = devdumper-docs
+	url = https://github.com/ArdaGnsrn/devdumper-docs
